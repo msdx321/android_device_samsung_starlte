@@ -1,8 +1,0 @@
-[
-    {
-        "remote" : "carbon",
-        "repository": "CarbonROM/android_device_samsung_star-common",
-        "target_path": "device/samsung/star-common",
-        "revision" : "cr-6.1"
-    }
-]
